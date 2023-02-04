@@ -1,1 +1,1 @@
-# binary-calc
+# binary-calc in js
