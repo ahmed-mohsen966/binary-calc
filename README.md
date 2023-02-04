@@ -1,2 +1,2 @@
 # binary-calc
-#js project
+#2 js project
